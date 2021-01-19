@@ -14,10 +14,7 @@
 ## 📥Download
 
 * [📁GHOST VERSION](download/ghost-version.md)
-* [📁SOFTWARE](download/software.md)
 * [📁.EXE](download/.exe.md)
-* [📁BAT](download/bat.md)
-* [📁REGEDIT](download/regedit.md)
 * [📁MODS](download/mods.md)
 * [📁DLL](download/untitled.md)
 
