@@ -15,6 +15,7 @@
 
 * [📁GHOST VERSION](download/ghost-version.md)
 * [📁.EXE](download/.exe.md)
+* [📁VAPE](download/vape.md)
 * [📁MODS](download/mods.md)
 * [📁DLL](download/untitled.md)
 
